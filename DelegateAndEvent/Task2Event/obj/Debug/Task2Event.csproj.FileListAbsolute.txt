@@ -1,0 +1,6 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\Task2Event\obj\Debug\Task2Event.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\Task2Event\bin\Debug\Task2Event.exe.config
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\Task2Event\bin\Debug\Task2Event.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\Task2Event\bin\Debug\Task2Event.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\Task2Event\obj\Debug\Task2Event.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\Task2Event\obj\Debug\Task2Event.pdb

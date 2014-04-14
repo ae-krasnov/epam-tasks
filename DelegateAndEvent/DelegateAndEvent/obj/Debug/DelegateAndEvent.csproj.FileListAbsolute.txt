@@ -1,0 +1,6 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe.config
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.pdb

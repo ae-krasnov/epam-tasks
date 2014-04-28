@@ -1,0 +1,6 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task3\LambdaLinq\LambdaLinq\bin\Debug\LambdaLinq.exe.config
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task3\LambdaLinq\LambdaLinq\obj\Debug\LambdaLinq.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task3\LambdaLinq\LambdaLinq\bin\Debug\LambdaLinq.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task3\LambdaLinq\LambdaLinq\bin\Debug\LambdaLinq.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task3\LambdaLinq\LambdaLinq\obj\Debug\LambdaLinq.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task3\LambdaLinq\LambdaLinq\obj\Debug\LambdaLinq.pdb

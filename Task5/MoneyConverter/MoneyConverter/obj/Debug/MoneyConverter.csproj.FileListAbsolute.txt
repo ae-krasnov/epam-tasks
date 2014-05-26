@@ -1,0 +1,5 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\bin\MoneyConverter.dll
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\bin\MoneyConverter.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.dll
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.pdb

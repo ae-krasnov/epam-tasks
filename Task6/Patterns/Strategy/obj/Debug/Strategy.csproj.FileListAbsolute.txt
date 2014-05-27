@@ -1,0 +1,5 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Strategy\obj\Debug\Strategy.pdb

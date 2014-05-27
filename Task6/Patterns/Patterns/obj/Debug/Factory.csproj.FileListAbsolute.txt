@@ -1,0 +1,6 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Patterns\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Patterns\obj\Debug\Patterns.pdb

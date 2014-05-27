@@ -1,0 +1,5 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Adapter\obj\Debug\Adapter.pdb

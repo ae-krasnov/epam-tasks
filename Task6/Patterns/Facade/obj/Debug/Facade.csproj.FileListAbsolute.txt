@@ -1,0 +1,6 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task6\Patterns\Facade\obj\Debug\Facade.pdb

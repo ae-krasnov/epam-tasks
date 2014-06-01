@@ -1,0 +1,13 @@
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\bin\MoneyConverter.dll
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\bin\MoneyConverter.pdb
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.dll
+C:\Users\Andrey\Documents\epamRep\epam-tasks\Task5\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.pdb
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\MoneyConverter\bin\MoneyConverter.dll.config
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\MoneyConverter\bin\MoneyConverter.dll
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\MoneyConverter\bin\MoneyConverter.pdb
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\MoneyConverter\bin\TextWithCaptionControl.dll
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\MoneyConverter\bin\TextWithCaptionControl.pdb
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csprojResolveAssemblyReference.cache
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.dll
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.pdb

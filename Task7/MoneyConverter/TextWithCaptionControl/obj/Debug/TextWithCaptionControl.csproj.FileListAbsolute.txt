@@ -1,0 +1,4 @@
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\TextWithCaptionControl\bin\Debug\TextWithCaptionControl.dll
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\TextWithCaptionControl\bin\Debug\TextWithCaptionControl.pdb
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\TextWithCaptionControl\obj\Debug\TextWithCaptionControl.dll
+C:\Users\andrey\EpamRep\epam-task\epam-tasks\Task7\MoneyConverter\TextWithCaptionControl\obj\Debug\TextWithCaptionControl.pdb
